@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-27)
+## Unreleased (2025-12-29)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`73f0550`](https://github.com/stdlib-js/stdlib/commit/73f055020dcc55a92d32c1cba59a7143d833813f) - **docs:** update dtype type _(by Athan Reines)_
 -   [`ff7ce26`](https://github.com/stdlib-js/stdlib/commit/ff7ce26b04b6cc4795ae8618959a5ba663719b6d) - **feat:** add `random/t` _(by Athan Reines)_
 
 </details>
